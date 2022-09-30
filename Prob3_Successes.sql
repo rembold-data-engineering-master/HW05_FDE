@@ -1,3 +1,8 @@
+/* 
+Running all commands in this file ONCE should complete without error.
+Ensure that you have run this file before attempting to run the failing queries.
+*/
+
 INSERT INTO hw5.movies (id,title,year,director) VALUES
   (1,'Dil Chahta Hai',2001,'Farhan Akhtar'),
   (2,'The Bourne Ultimatum',2007,'Paul Greengrass'),
