@@ -1,7 +1,7 @@
 /*
 You will need to fill out the necessary tables below given the Entity-Relationship
-Diagram shown in the PDF (and included in the repository) and other specified constraints
-as described in the PDF. You may have to try several times to get your table creation
+Diagram shown in the HTML (and included in the repository) and other specified constraints
+as described in the HTML guide. You may have to try several times to get your table creation
 correct, so I have set up this template to automatically drop any old tables each time
 to give you a fresh start.
 */
