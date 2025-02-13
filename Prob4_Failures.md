@@ -1,8 +1,9 @@
 # Problem 4 Failures
 - List any other students you worked with:
+- Generative AI transcript URL if used:
 - About how long did you work on this problem? 
 
-For each section below, describe exactly which constraint is violated and how it is being violated. If any of these query run successfully, you need to go back and tweak your table settings, as you have not correctly established all the constraints. There are a lot of these, but each really should not take you that long. **Beware that some queries might have multiple constraints being violated, so make sure you identify everything that is wrong.**
+For each section below, describe exactly which constraint is violated and how it is being violated. If any of these queries run successfully, you need to go back and tweak your table settings, as you have not correctly established all the constraints. There are a lot of these, but each really should not take you that long. **Beware that some queries might have multiple constraints being violated, so make sure you identify everything that is wrong.**
 
 
 ## A)
